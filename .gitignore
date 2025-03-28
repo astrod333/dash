@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -40,10 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-=======
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
->>>>>>> e6e5eea0fdd92dbbe0f9ced8fc4745314ac7c3f5
