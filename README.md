@@ -19,7 +19,7 @@ The Astro Dashboard is a sleek and modern dashboard built with Next.js and Shadc
 
 ## Tech Stack
 
-- Next.js 14
+- Next.js 15
 - React
 - TypeScript
 - Tailwind CSS
