@@ -1,61 +1,49 @@
 # Astro Dashboard
-Welcome to the Astro Dashboard repository! This project is a modern and responsive dashboard built using Next.js and Shadcn UI components.
+
+A modern, feature-rich dashboard built with Next.js 15 and Shadcn UI, offering real-time data visualization and dynamic theming capabilities.
 
 ## Overview
 
-The Astro Dashboard is a sleek and modern dashboard built with Next.js and Shadcn UI components. It features a responsive design with support for both light and dark modes, along with a customizable theme selector that lets you easily switch between different color schemes.
+![Astro Dashboard](https://byiy0cu7m2.ufs.sh/f/Luc8xnAhTG7IxIElkhuggbHYAC6k7BoMZOLiaR4Xjq2n1x9J)
 
 ## Features
 
-- 📱 Responsive design for all devices
-- 🌓 Light and dark mode support
-- 🎨 Customizable theme options
-- 📊 Interactive data tables and charts
-- 🔄 Drag and drop functionality
-- 📁 Document management system
-- 👥 User management interface
-- 📈 Analytics visualization
-- 🎯 Project tracking
+- 📱 Responsive design optimized for all devices
+- 🌓 Dynamic theme system with light/dark mode support
+- 🎨 Customizable color schemes with theme scaling
+- 📊 Interactive charts and data visualization using Recharts
+- 🔄 Drag-and-drop functionality powered by DND Kit
+- 📈 Real-time analytics and performance metrics
+- 📋 Project and task management capabilities
+- 👥 User management and authentication system
+- 🎯 Progress tracking and reporting tools
 
 ## Tech Stack
 
-- Next.js 15
-- React
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
-- Recharts
-- DND Kit
+- **Framework**: Next.js 15.2.3
+- **Language**: TypeScript
+- **UI Components**: Shadcn UI
+- **Styling**: Tailwind CSS
+- **Charts**: Recharts
+- **Drag & Drop**: DND Kit
+- **Theme Management**: next-themes
+- **State Management**: React Hooks
+- **Package Manager**: pnpm
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js 18 or later
 - pnpm package manager
 
-### Installation
+## Getting Started
 
-To begin, install the required dependencies using the following command:
-
+1. Clone the repository
+2. Install dependencies:
 ```bash
 pnpm install
-# or
-yarn install
 ```
-
-# Development Server
-
-After installing the dependencies run the development server:
-
+3. Run the development server:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm run dev
-# or
-bun dev
+pnpm dev
 ```
-
-Open [http://localhost:3000] with your browser to see the result.
+Give it a star if you like it!
